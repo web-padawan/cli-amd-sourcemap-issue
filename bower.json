@@ -1,0 +1,8 @@
+{
+  "name": "cli-amd-sourcemap-issue",
+  "main": "dist/umd/bundle.js",
+  "dependencies": {
+    "web-component-tester": "^6.5.0",
+    "webcomponentsjs": "^1.2.0"
+  }
+}
